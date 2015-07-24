@@ -1,3 +1,5 @@
+[Back to Main Docs](README.md)
+
 # This is the other section
 
 1.  Write the docs pages
