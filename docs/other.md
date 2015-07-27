@@ -1,4 +1,4 @@
-[Back to Main Docs](../README.md)
+[Back to Main Docs](./README.md)
 
 # This is the other section
 
